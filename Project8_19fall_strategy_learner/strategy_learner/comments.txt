@@ -1,0 +1,9 @@
+<pre>--- Summary ---
+Tests passed: 4 out of 4
+
+--- Details ---
+Test #0: passed 
+Test #1: passed 
+Test #2: passed 
+Test #3: passed 
+</pre>
