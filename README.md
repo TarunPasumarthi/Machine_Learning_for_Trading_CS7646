@@ -1,5 +1,6 @@
 # Machine Learning for Trading CS 7646 Georgia Tech Fall 2019
 <a href="http://quantsoftware.gatech.edu/Machine_Learning_for_Trading_Course"> Course Website</a>
+<br>
 
 #### Project 1: Martingale
 The purpose of this assignment is to get you started programming in Python right away and to help provide you some initial feel for risk, probability and "betting." Purchasing a stock is, after all, a bet that the stock will increase in value.
